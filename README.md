@@ -8,16 +8,18 @@ Let build it collaboratively.
 - Effective communication
 - Human Resources Management
     - Diversity management
-    - Human management in general
-    - Culture in World (understanding most common culture and civilisation)
 - Project Management
 - Innovation management
 - Strategic management
 - Economic intelligence
 - Leadership
-- Politics and Geopolitics (it matters a lot; politics make rules, and Geopolitics)
-- Law (Understanding basics)
+- Politics and Geopolitics
 - Finance (entreprise company)
 - Accounting
 - Start up World: From idea to your first client
-- Build A fictive start up from scratch
+- Build a start up from scratch
+
+---
+
+- [How to start a Startup](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&si=UOieMmkygTZDG1mh): Paul Graham, Sam altman
+- [How to Build An MVP ](https://youtu.be/QRZ_l7cVzzU?si=InBvUsTcRd6EJLuv): YC
