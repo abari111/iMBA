@@ -30,3 +30,6 @@ Let build it collaboratively.
 ](https://youtu.be/r-98YRAF1dY?si=fAJnQP8Efz51UIkr)
 - [Value Props: Create a Product People Will Actually Buy
 ](https://youtu.be/q8d9uuO1Cf4?si=KEyANS3er46U-CB9)
+- [Take a Seat in the Harvard MBA Case Classroom](https://youtu.be/p7iwXvBnbIE?si=C0jV1B2RjEWhJFuU)
+- [What It Takes: Vision, Mission & Culture](https://youtu.be/RI4UKUlnIDc?si=v4zE1ZT4jeDBhUhM)
+- [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://youtu.be/kBdfcR-8hEY?si=9a2ASFtYUqIBdVc9)
