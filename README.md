@@ -37,3 +37,4 @@ Let build it collaboratively.
 - [__Sales__: The Marketing Expert: How to Get More Sales, Loyal Customers, ...](https://youtu.be/vM_1G1LCotU?si=xqK4Tcj9rSKFfYo_)
 - [__Sales__: 10 Steps That’ll Turn You Into A Sales Machine](https://youtu.be/amdXa3CfzHw?si=SQAtbD-YwjiS6J_U)
 - [__Sales__: Seth Godin - Everything You (probably) DON'T Know about Marketing](https://youtu.be/BPK_qzeH_yk?si=MR_DZMmFe_JYGzuW)
+- [__Marketing__: The Marketing Genius Behind Nike: Greg Hoffman](https://youtu.be/nWwnm-z6mOw?si=aYzXfXRO3Y6mTwuQ)
