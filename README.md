@@ -38,3 +38,5 @@ Let build it collaboratively.
 - [__Sales__: 10 Steps That’ll Turn You Into A Sales Machine](https://youtu.be/amdXa3CfzHw?si=SQAtbD-YwjiS6J_U)
 - [__Sales__: Seth Godin - Everything You (probably) DON'T Know about Marketing](https://youtu.be/BPK_qzeH_yk?si=MR_DZMmFe_JYGzuW)
 - [__Marketing__: The Marketing Genius Behind Nike: Greg Hoffman](https://youtu.be/nWwnm-z6mOw?si=aYzXfXRO3Y6mTwuQ)
+- [__Strategic thinking__: The smartest people have mastered these 6 core skills](https://youtu.be/nWwnm-z6mOw?si=aYzXfXRO3Y6mTwuQ)
+- [__Strategic thinking__: ]
