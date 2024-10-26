@@ -34,3 +34,6 @@ Let build it collaboratively.
 - [What It Takes: Vision, Mission & Culture](https://youtu.be/RI4UKUlnIDc?si=v4zE1ZT4jeDBhUhM)
 - [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://youtu.be/kBdfcR-8hEY?si=9a2ASFtYUqIBdVc9)
 - [Project Management Simplified: Learn The Fundamentals of PMI's Framework](https://youtu.be/ZKOL-rZ79gs?si=zgC1pVX7KbKE33w6)
+- [__Sales__: The Marketing Expert: How to Get More Sales, Loyal Customers, ...](https://youtu.be/vM_1G1LCotU?si=xqK4Tcj9rSKFfYo_)
+- [__Sales__: 10 Steps That’ll Turn You Into A Sales Machine](https://youtu.be/amdXa3CfzHw?si=SQAtbD-YwjiS6J_U)
+- [__Sales__: Seth Godin - Everything You (probably) DON'T Know about Marketing](https://youtu.be/BPK_qzeH_yk?si=MR_DZMmFe_JYGzuW)
