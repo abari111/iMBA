@@ -39,4 +39,4 @@ Let build it collaboratively.
 - [__Sales__: Seth Godin - Everything You (probably) DON'T Know about Marketing](https://youtu.be/BPK_qzeH_yk?si=MR_DZMmFe_JYGzuW)
 - [__Marketing__: The Marketing Genius Behind Nike: Greg Hoffman](https://youtu.be/nWwnm-z6mOw?si=aYzXfXRO3Y6mTwuQ)
 - [__Strategic thinking__: The smartest people have mastered these 6 core skills](https://youtu.be/nWwnm-z6mOw?si=aYzXfXRO3Y6mTwuQ)
-- [__Strategic thinking__: ]
+- [__Strategic thinking__: What Is Strategy? It’s a Lot Simpler Than You Think](https://youtu.be/o7Ik1OB4TaE?si=WSzjCVv9dCsqX427)
