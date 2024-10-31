@@ -22,8 +22,8 @@ Let build it collaboratively.
 ---
 
 - [How to start a Startup](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&si=UOieMmkygTZDG1mh): Paul Graham, Sam altman
-- [How to Build An MVP ](https://youtu.be/QRZ_l7cVzzU?si=InBvUsTcRd6EJLuv): YC
-- [Everything You Need to Know About Finance and Investing in Under an Hour](https://youtu.be/WEDIj9JBTC8?si=hfysqMgmoi-U3xvb)
+- [__Entrepreneurship__: How to Build An MVP ](https://youtu.be/QRZ_l7cVzzU?si=InBvUsTcRd6EJLuv): YC
+- [__Finance__: Everything You Need to Know About Finance and Investing in Under an Hour](https://youtu.be/WEDIj9JBTC8?si=hfysqMgmoi-U3xvb)
 - [Fundamentals of Finance & Economics for Businesses – Crash Course](https://youtu.be/EJHPltmAULA?si=IpE_26eGJiNFjRl-)
 - [__MBA__:Everything I Learned at Stanford Business School in 28 Minutes](https://youtu.be/vIkRbAvaQjs?si=QunhuCAbv7fK5TZB)
 - [How to Build a Product that Scales into a Company
@@ -33,7 +33,7 @@ Let build it collaboratively.
 - [Take a Seat in the Harvard MBA Case Classroom](https://youtu.be/p7iwXvBnbIE?si=C0jV1B2RjEWhJFuU)
 - [What It Takes: Vision, Mission & Culture](https://youtu.be/RI4UKUlnIDc?si=v4zE1ZT4jeDBhUhM)
 - [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://youtu.be/kBdfcR-8hEY?si=9a2ASFtYUqIBdVc9)
-- [Project Management Simplified: Learn The Fundamentals of PMI's Framework](https://youtu.be/ZKOL-rZ79gs?si=zgC1pVX7KbKE33w6)
+- [__PM__: Project Management Simplified: Learn The Fundamentals of PMI's Framework](https://youtu.be/ZKOL-rZ79gs?si=zgC1pVX7KbKE33w6)
 - [__Sales__: The Marketing Expert: How to Get More Sales, Loyal Customers, ...](https://youtu.be/vM_1G1LCotU?si=xqK4Tcj9rSKFfYo_)
 - [__Sales__: 10 Steps That’ll Turn You Into A Sales Machine](https://youtu.be/amdXa3CfzHw?si=SQAtbD-YwjiS6J_U)
 - [__Sales__: Seth Godin - Everything You (probably) DON'T Know about Marketing](https://youtu.be/BPK_qzeH_yk?si=MR_DZMmFe_JYGzuW)
