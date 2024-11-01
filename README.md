@@ -24,7 +24,7 @@ Let build it collaboratively.
 - [How to start a Startup](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&si=UOieMmkygTZDG1mh): Paul Graham, Sam altman
 - [__Entrepreneurship__: How to Build An MVP ](https://youtu.be/QRZ_l7cVzzU?si=InBvUsTcRd6EJLuv): YC
 - [__Finance__: Everything You Need to Know About Finance and Investing in Under an Hour](https://youtu.be/WEDIj9JBTC8?si=hfysqMgmoi-U3xvb)
-- [Fundamentals of Finance & Economics for Businesses – Crash Course](https://youtu.be/EJHPltmAULA?si=IpE_26eGJiNFjRl-)
+- [__Finance__: Fundamentals of Finance & Economics for Businesses – Crash Course](https://youtu.be/EJHPltmAULA?si=IpE_26eGJiNFjRl-)
 - [__MBA__:Everything I Learned at Stanford Business School in 28 Minutes](https://youtu.be/vIkRbAvaQjs?si=QunhuCAbv7fK5TZB)
 - [How to Build a Product that Scales into a Company
 ](https://youtu.be/r-98YRAF1dY?si=fAJnQP8Efz51UIkr)
