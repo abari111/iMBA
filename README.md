@@ -40,3 +40,4 @@ Let build it collaboratively.
 - [__Marketing__: The Marketing Genius Behind Nike: Greg Hoffman](https://youtu.be/nWwnm-z6mOw?si=aYzXfXRO3Y6mTwuQ)
 - [__Strategic thinking__: The smartest people have mastered these 6 core skills](https://youtu.be/nWwnm-z6mOw?si=aYzXfXRO3Y6mTwuQ)
 - [__Strategic thinking__: What Is Strategy? It’s a Lot Simpler Than You Think](https://youtu.be/o7Ik1OB4TaE?si=WSzjCVv9dCsqX427)
+- [__Finance__: William Ackman: Everything You Need to Know About Finance and Investing](https://youtu.be/WEDIj9JBTC8?si=NFqHkT1Jj67G4H6r)
