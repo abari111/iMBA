@@ -42,3 +42,4 @@ Let build it collaboratively.
 - [__Strategic thinking__: What Is Strategy? It’s a Lot Simpler Than You Think](https://youtu.be/o7Ik1OB4TaE?si=WSzjCVv9dCsqX427)
 - [__Finance__: William Ackman: Everything You Need to Know About Finance and Investing](https://youtu.be/WEDIj9JBTC8?si=NFqHkT1Jj67G4H6r)
 - [Valuation in Four Lessons](https://youtu.be/Z5chrxMuBoo?si=ny3sezjK76gxRfsF)
+- [Game Theory](https://youtu.be/M3oWYHYoBvk?si=-Z_vKWSSJL0JBYRY)
