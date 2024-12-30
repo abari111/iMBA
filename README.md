@@ -43,7 +43,7 @@ Let build it collaboratively.
 - [__Finance__: William Ackman: Everything You Need to Know About Finance and Investing](https://youtu.be/WEDIj9JBTC8?si=NFqHkT1Jj67G4H6r)
 - [Valuation in Four Lessons](https://youtu.be/Z5chrxMuBoo?si=ny3sezjK76gxRfsF)
 - [Game Theory](https://youtu.be/M3oWYHYoBvk?si=-Z_vKWSSJL0JBYRY)
----
+
 ## Podcasts
 - [Diary of a CEO](https://www.youtube.com/TheDiaryOfACEO)
 - [Lex Fridman](https://www.youtube.com/lexfridman)
