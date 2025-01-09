@@ -49,3 +49,5 @@ Let build it collaboratively.
 - [Lex Fridman](https://www.youtube.com/lexfridman)
 - [School of Hard Knocks](https://www.youtube.com/@theschoolofhardknocks)
 - [Y Combinator](https://www.youtube.com/@ycombinator)
+- [EO](https://www.youtube.com/@entreprenuership_opportunities)
+- 
