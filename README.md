@@ -47,3 +47,5 @@ Let build it collaboratively.
 ## Podcasts
 - [Diary of a CEO](https://www.youtube.com/TheDiaryOfACEO)
 - [Lex Fridman](https://www.youtube.com/lexfridman)
+- [School of Hard Knocks](https://www.youtube.com/@theschoolofhardknocks)
+- [Y Combinator](https://www.youtube.com/@ycombinator)
