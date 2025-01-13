@@ -43,6 +43,7 @@ Let build it collaboratively.
 - [__Finance__: William Ackman: Everything You Need to Know About Finance and Investing](https://youtu.be/WEDIj9JBTC8?si=NFqHkT1Jj67G4H6r)
 - [Valuation in Four Lessons](https://youtu.be/Z5chrxMuBoo?si=ny3sezjK76gxRfsF)
 - [Game Theory](https://youtu.be/M3oWYHYoBvk?si=-Z_vKWSSJL0JBYRY)
+- [Every Major Economic Theory Explained in 20 Minutes](https://youtu.be/dQ_UPQa3CUE?si=_4qEitX-ERuuAP0_)
 
 ## Podcasts
 - [Diary of a CEO](https://www.youtube.com/TheDiaryOfACEO)
@@ -51,5 +52,4 @@ Let build it collaboratively.
 - [Y Combinator](https://www.youtube.com/@ycombinator)
 - [EO](https://www.youtube.com/@entreprenuership_opportunities)
 - [Stanford Graduate School of Business](https://www.youtube.com/@stanfordgsb)
-- [Every Major Economic Theory Explained in 20 Minutes](https://youtu.be/dQ_UPQa3CUE?si=_4qEitX-ERuuAP0_)
 - 
