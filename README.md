@@ -51,4 +51,5 @@ Let build it collaboratively.
 - [Y Combinator](https://www.youtube.com/@ycombinator)
 - [EO](https://www.youtube.com/@entreprenuership_opportunities)
 - [Stanford Graduate School of Business](https://www.youtube.com/@stanfordgsb)
+- [Every Major Economic Theory Explained in 20 Minutes](https://youtu.be/dQ_UPQa3CUE?si=_4qEitX-ERuuAP0_)
 - 
