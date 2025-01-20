@@ -44,6 +44,9 @@ Let build it collaboratively.
 - [Valuation in Four Lessons](https://youtu.be/Z5chrxMuBoo?si=ny3sezjK76gxRfsF)
 - [Game Theory](https://youtu.be/M3oWYHYoBvk?si=-Z_vKWSSJL0JBYRY)
 - [Every Major Economic Theory Explained in 20 Minutes](https://youtu.be/dQ_UPQa3CUE?si=_4qEitX-ERuuAP0_)
+- [Introduction and Supply & Demand](https://youtu.be/_OkTw766oCs?si=U6SNTtZn6wn6e0M2)
+- [6 Tips on Being a Successful Entrepreneur | John Mullins | TED](https://youtu.be/eHJnEHyyN1Y?si=o6xavVtAg8hVz8_w)
+-  [__other__:Everything I Learned Studying 17 Billion Dollar Companies](https://youtu.be/9ecv90SSaSI?si=66LjwarVzMAZCZT0)
 
 ## Podcasts
 - [Diary of a CEO](https://www.youtube.com/TheDiaryOfACEO)
