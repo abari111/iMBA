@@ -47,6 +47,7 @@ Let build it collaboratively.
 - [Introduction and Supply & Demand](https://youtu.be/_OkTw766oCs?si=U6SNTtZn6wn6e0M2)
 - [6 Tips on Being a Successful Entrepreneur | John Mullins | TED](https://youtu.be/eHJnEHyyN1Y?si=o6xavVtAg8hVz8_w)
 - [__other__:Everything I Learned Studying 17 Billion Dollar Companies](https://youtu.be/9ecv90SSaSI?si=66LjwarVzMAZCZT0)
+- [Documentary: The System of Money | Documentary | Money Creation Explained](https://youtu.be/yLZUVsmUwZY?si=_6ITWKoOrOstpmjP)
 - 
 ## Podcasts
 - [Diary of a CEO](https://www.youtube.com/TheDiaryOfACEO)
