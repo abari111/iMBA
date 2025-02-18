@@ -55,5 +55,4 @@ Let build it collaboratively.
 - [Y Combinator](https://www.youtube.com/@ycombinator)
 - [EO](https://www.youtube.com/@entreprenuership_opportunities)
 - [Stanford Graduate School of Business](https://www.youtube.com/@stanfordgsb)
-- [EO](https://www.youtube.com/@entreprenuership_opportunities)
 
