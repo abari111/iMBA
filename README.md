@@ -49,7 +49,8 @@ Let build it collaboratively.
 - [__other__:Everything I Learned Studying 17 Billion Dollar Companies](https://youtu.be/9ecv90SSaSI?si=66LjwarVzMAZCZT0)
 - [__Documentary__: The System of Money | Documentary | Money Creation Explained](https://youtu.be/yLZUVsmUwZY?si=_6ITWKoOrOstpmjP)
 - [__Return of Experiences (ROE)__:33Yrs of Business Experience in 4hrs](https://youtu.be/xQuKdFNK7tk?si=0GC1TeWR1bNwGQdR)
-- [__Negociation__: The art of negotiation: Six must-have strategies | LBS] (https://youtu.be/uKbcmlKb81c?si=_LblB6bqH6Oa9SQL)
+- [__Negociation__: The art of negotiation](https://youtu.be/uKbcmlKb81c?si=_LblB6bqH6Oa9SQL)
+
 ## Podcasts
 - [Diary of a CEO](https://www.youtube.com/TheDiaryOfACEO)
 - [Lex Fridman](https://www.youtube.com/lexfridman)
